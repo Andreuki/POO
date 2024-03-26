@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\biblioteca.exe
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\biblioteca.deps.json
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\biblioteca.runtimeconfig.json
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\biblioteca.runtimeconfig.dev.json
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\biblioteca.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\ref\biblioteca.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\bin\Debug\net5.0\biblioteca.pdb
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.AssemblyInfo.cs
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\ref\biblioteca.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.pdb
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 6\biblioteca\obj\Debug\net5.0\biblioteca.genruntimeconfig.cache
